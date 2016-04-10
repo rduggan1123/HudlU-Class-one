@@ -2,4 +2,4 @@
 
 Writing about myself to make changes to the file.
 
-Second time through without the guide. Checking memorization of process.
+Second time through without the guide. Checking memorization of process
